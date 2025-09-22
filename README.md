@@ -1,4 +1,11 @@
 # RPS-LAN
-Just a multiplayer rps, and its modular *sparkles*.<br>
-![alt text](images/base1v1.png)<br>
-(ffa is messed up rn)<br>
+A modular, multiplayer Rock-Paper-Scissors over LAN ✨  
+
+![1v1 mode](images/base1v1.png)  
+
+(Current status: FFA mode needs fixes 🔧)  
+
+---
+
+👨‍💻 From **GNIOT**?  
+Feel free to contribute anytime — I’ll definitely review your PRs!
